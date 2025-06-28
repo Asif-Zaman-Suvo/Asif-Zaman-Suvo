@@ -21,9 +21,9 @@
 <p>
 A Skilled FullStack JavaScript Developer 🚀 from Bangladesh. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Next+React.
+Stacks I have worked with : React , Nextjs, Angular.
 <br/>  
-Things I am currently experimenting with : NextJs  , typescript, chakraUi ...
+Things I am currently experimenting with : Angular, GraphQL, C# ...
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
@@ -33,13 +33,13 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a Software Engineer at SELISE Digital Platforms.
-- 🌱 I’m currently learning PosgreSQL.
+- 🌱 I’m currently learning C#.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, NextJs.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Football , Playing games.
 - 📫 How to reach me: asif.zaman.suvo@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1RD9uz2y4bATeP-57uDr1E0HMGlEVmUnA/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/1VfA-Z6R9nSU1FiDmNtvBohOMvCfLYzJb/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
@@ -52,6 +52,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 ![Firebase Auth](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Angular](https://img.shields.io/badge/-Angular-blue?style=flat-square&logo=Angular)
+![GraphQL](https://img.shields.io/badge/-Graphql-orange?style=flat-square&logo=Graphql)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=chakra-ui)
 ![Chart Js](https://img.shields.io/badge/-Chart_JS-black?style=flat-square&logo=chartdotjs)
