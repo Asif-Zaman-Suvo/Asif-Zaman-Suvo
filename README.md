@@ -28,7 +28,7 @@
 - 💬 Ask me about **Node.js, NestJS, REST/GraphQL APIs, React, Next.js**
 - 🎿 Outside of code: reading about history, football, gaming
 - 📫 [asif.zaman.suvo@gmail.com](mailto:asif.zaman.suvo@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1KcgxpLgZCnrOfucGL_leDYbvrurT2VAo/view)
+- 📝 [Resume](https://drive.google.com/file/d/1d_ewjbQSNxp6fcnHxmVbZyQ7Kiy1wTqg/view)
 
 ---
 
