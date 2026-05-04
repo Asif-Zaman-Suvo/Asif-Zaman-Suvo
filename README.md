@@ -14,7 +14,7 @@
 
 <br /><br/>
 
-**Full-Stack JavaScript Developer** with a strong backend focus — building scalable APIs and services with **NestJS, Prisma, PostgreSQL, and Supabase**. Frontend experience across **React, Next.js, and Angular**. Currently deepening expertise in **microservices architecture** and scalable system design.
+**Full-Stack JavaScript Developer** with a solid frontend foundation — building UIs with **React, Next.js, and Angular**. Actively transitioning toward backend engineering with **NestJS, Prisma, PostgreSQL, and Supabase**. Currently deepening expertise in **microservices architecture** and scalable system design.
 
 📍 Bangladesh · Software Engineer @ SELISE Digital Platforms
 
