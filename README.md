@@ -14,8 +14,6 @@
 
 <br /><br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-
 **Full-Stack JavaScript Developer** with a strong backend focus — building scalable APIs and services with **NestJS, Prisma, PostgreSQL, and Supabase**. Frontend experience across **React, Next.js, and Angular**. Currently deepening expertise in **microservices architecture** and scalable system design.
 
 📍 Bangladesh · Software Engineer @ SELISE Digital Platforms
@@ -30,7 +28,7 @@
 - 💬 Ask me about **Node.js, NestJS, REST/GraphQL APIs, React, Next.js**
 - 🎿 Outside of code: reading about history, football, gaming
 - 📫 [asif.zaman.suvo@gmail.com](mailto:asif.zaman.suvo@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VfA-Z6R9nSU1FiDmNtvBohOMvCfLYzJb/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1KcgxpLgZCnrOfucGL_leDYbvrurT2VAo/view)
 
 ---
 
