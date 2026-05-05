@@ -37,7 +37,7 @@
   <tr>
     <td align="center"><strong>~5 YOE</strong><br/><sub>Experience</sub></td>
     <td align="center"><strong>3</strong><br/><sub>Companies</sub></td>
-    <td align="center"><strong>2</strong><br/><sub>Full-stack Projects</sub></td>
+    <td align="center"><strong>9</strong><br/><sub>Projects</sub></td>
     <td align="center"><strong>10+</strong><br/><sub>Technologies</sub></td>
   </tr>
 </table>
@@ -98,31 +98,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
----
 
-## 💼 Work Experience
-
-### 🟢 Software Engineer — SELISE Digital Platforms *(Jul 2022 – Present)*
-- Built data-dense responsive UIs with **Next.js + Ant Design** → **+25% usability**
-- Developed workflow-driven LMS modules (Coupons, Reporting, Affiliates) → **+35% engagement**
-- CMS-driven content workflows via Storyblok → **saved 15+ hrs/month**
-- Interactive KPI dashboards with Chart.js + ExcelJS (filtering, aggregation, export)
-- Scalable enterprise ERP frontend in **Angular + GraphQL** → **+30% responsiveness**
-
-### 🔵 Junior Software Engineer — ReformedTech *(Oct 2021 – Jun 2022)*
-- Performance-optimized UI with Next.js + Tailwind CSS → **-30% load time**
-- Translated Figma designs to production React components → **-20% dev effort**
-- OAuth 2.0 Google Sign-In for 200+ users
-
-### ⚪ Intern — eGeneration LTD *(Jan 2021 – Jul 2021)*
-- COVID-19 district-level dashboards across 64 districts for public health decision-making
-- Angular UI bug fixes and cross-platform UX improvements → **+15% engagement**
-
----
-
-## 🚀 Featured Projects
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 DoctorKhuji</h3>
@@ -153,20 +129,12 @@
 
 ---
 
-## 🎓 Education
-
-**B.Sc (Hons) — Computer Science & Engineering**  
-National University of Bangladesh · Dhaka City College · *2016 – 2021*
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asif-Zaman-Suvo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Zaman-Suvo&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif-Zaman-Suvo&theme=default&hide_border=true"/>
 </p>
@@ -183,7 +151,7 @@ Long-term goal: contribute to open source and tackle infrastructure-level engine
 
 ## 📬 Let's Connect
 
-Open to **backend / full-stack roles**, collaborations, and interesting architecture conversations.
+Open to **Frontend / full-stack roles**, collaborations, and interesting architecture conversations.
 
 <p align="center">
   <a href="mailto:asif.zaman.suvo@gmail.com">
