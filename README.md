@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Md Asifuzzaman Suvo](https://github.com/Asif-Zaman-Suvo)
+### Hi there, I'm [Md Asifuzzaman Suvo](https://github.com/Asif-Zaman-Suvo)
 
 <br/>
 
@@ -14,73 +14,128 @@
 
 <br /><br/>
 
-**Full-Stack JavaScript Developer** with a solid frontend foundation — building UIs with **React, Next.js, and Angular**. Actively transitioning toward backend engineering with **NestJS, Prisma, PostgreSQL, and Supabase**. Currently deepening expertise in **microservices architecture** and scalable system design.
+**Frontend Engineer (React · Next.js · TypeScript · Angular) | 5 YOE**
 
-📍 Bangladesh · Software Engineer @ SELISE Digital Platforms
+Frontend-focused engineer with ~5 years of experience building scalable, data-driven web applications. Experienced in data-dense dashboards, admin panels, and workflow-based systems with strong API integration and performance optimization. Open to remote and relocation opportunities.
+
+📍 Dhaka, Bangladesh · Software Engineer @ SELISE Group
 
 ---
 
-### ✨ About Me
+### About Me
 
-- 🔭 Building production-grade backend systems with **NestJS + PostgreSQL + Supabase**
-- 🌱 Exploring **microservices architecture**, event-driven patterns, and scalable system design
-- 🎯 Frontend curiosity: experimenting with **Svelte** on side projects
-- 💬 Ask me about **Node.js, NestJS, REST/GraphQL APIs, React, Next.js**
-- 🎿 Outside of code: reading about history, football, gaming
+- 🔭 Currently building **DoctorKhuji** (full-stack appointments platform) & **BusGo** (bus ticket booking system)
+- 💼 5 years building enterprise frontends — React, Next.js, Angular, TypeScript
+- 🧠 Strong in **state management** (Redux Toolkit, RTK Query, Zustand, TanStack Query) and **API integration**
+- 🤖 Actively leveraging **AI-accelerated development** — Cursor AI, GitHub Copilot, Agentic Workflows
+- 🧪 Testing advocate: Jest, Vitest, React Testing Library, Playwright (E2E + AI-driven spec generation)
+- 💬 Ask me about **React, Next.js, Angular, TypeScript, GraphQL, performance optimization**
 - 📫 [asif.zaman.suvo@gmail.com](mailto:asif.zaman.suvo@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1d_ewjbQSNxp6fcnHxmVbZyQ7Kiy1wTqg/view)
+- 📝 [Portfolio](https://your-portfolio-link.com) · [LeetCode](https://leetcode.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend**
-
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-![REST API](https://img.shields.io/badge/-REST_API-black?style=flat-square&logo=fastapi)
-
-**Database & BaaS**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
-**Frontend**
+**Languages & Frameworks**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=DD0031)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![Svelte](https://img.shields.io/badge/-Svelte_(exploring)-black?style=flat-square&logo=svelte&logoColor=FF3E00)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
 
-**DevOps & Tools**
+**State Management & Data**
+
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-black?style=flat-square&logo=redux)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-black?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=react)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-black?style=flat-square&logo=react-query)
+
+**UI & Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-black?style=flat-square&logo=shadcnui)
+![Chakra UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=chakraui)
+![Material UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=mui)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-black?style=flat-square&logo=antdesign&logoColor=0170FE)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
+
+**Database & BaaS**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=vitest)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+
+**Tools & Platforms**
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![GCP](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud)
+![SonarQube](https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
 
 ---
 
-### 🏗️ Current Direction
+### 💼 Work Experience
 
-> Shifting deeper into **backend architecture** — designing modular, maintainable services with clean separation of concerns. Interested in **microservices**, **event-driven patterns**, and **database performance** at scale. Long-term goal: contribute meaningfully to open source and work on infrastructure-level problems.
+**Software Engineer — SELISE Group** *(Jul 2022 – Present)*
+- Built data-dense, responsive UIs with Next.js, SCSS, and Ant Design — improved design consistency by 25%
+- Developed workflow-driven LMS modules (Coupons, Reporting, Affiliates), boosting user engagement by 35%
+- Designed CMS-driven content workflows with Storyblok, saving 15+ hours/month of manual effort
+- Built KPI dashboards and reporting systems with Chart.js and ExcelJS (filtering, aggregation, export)
+- Maintained a scalable enterprise ERP frontend (Angular + GraphQL) improving responsiveness by 30%
+
+**Junior Software Engineer — ReformedTech** *(Oct 2021 – Jun 2022)*
+- Built responsive UI components with Next.js and Tailwind CSS, reducing load time by 30%
+- Translated Figma designs into reusable React components, cutting development effort by 20%
+- Implemented secure OAuth 2.0 (Google Sign-In) for 200+ users
+- Developed and optimized key site modules improving navigation engagement by 10–15%
+
+**Intern — eGeneration LTD** *(Jan 2021 – Jul 2021)*
+- Visualized large-scale COVID-19 datasets into district-level dashboards (64 districts) for public health decisions
+- Fixed critical UI/UX bugs on Angular interfaces, increasing user engagement by 15%
+- Contributed to cross-platform UI/UX improvements for content delivery flow
+
+---
+
+### 🏗️ Featured Projects
+
+**[DoctorKhuji](https://github.com/Asif-Zaman-Suvo)** — Full-Stack Doctors Appointment Platform *(Apr 2026 – May 2026)*
+- Role-based system (Patient, Doctor, Admin) with NextAuth.js JWT sessions and RBAC middleware
+- Data-driven dashboards for doctors and admins — appointment management, user control, analytics
+- PostgreSQL + Prisma ORM, Next.js App Router, Tailwind CSS, Zod + React Hook Form
+
+**[BusGo](https://github.com/Asif-Zaman-Suvo)** — Full-Stack Bus Ticket Booking System *(Apr 2026 – Present)*
+- Multi-step booking flow: seat selection → passenger details → payment → e-ticket generation
+- Auth via Better Auth (email + Google OAuth), NestJS 11, PostgreSQL (Supabase), Prisma
+- Live filters with Zustand persistence, PDF ticket download via jsPDF
+- Next.js 15 App Router, Tailwind CSS v4, shadcn/ui; payment gateway (bKash, SSLCommerz) in progress
+
+---
+
+### 🎓 Education
+
+**B.Sc (Hons) in Computer Science & Engineering** — National University of Bangladesh  
+Department of CSE, Dhaka City College *(Mar 2016 – Aug 2021)*
 
 ---
 
 ### 📬 Let's Connect
 
-Open to backend/full-stack roles, collaborations, and interesting architecture conversations.
+Open to frontend/full-stack roles, collaborations, and remote opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/-Md_Asifuzzaman_Suvo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-asifuzzaman-shuvo/)
 [![Email](https://img.shields.io/badge/-asif.zaman.suvo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:asif.zaman.suvo@gmail.com)
