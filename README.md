@@ -98,47 +98,6 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 DoctorKhuji</h3>
-      <p><em>Full-stack Doctors Appointment Platform</em></p>
-      <p>Healthcare platform with <strong>RBAC</strong> (Patient / Doctor / Admin), analytics dashboards, and secure auth via NextAuth.js (JWT sessions).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚌 BusGo <em>(WIP)</em></h3>
-      <p><em>Full-stack Bus Ticket Booking System</em></p>
-      <p>Multi-step booking: seat selection → payment (bKash, SSLCommerz) → e-ticket PDF. Live filters, Zustand state persistence. Frontend live on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Zaman-Suvo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Zaman-Suvo&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif-Zaman-Suvo&theme=default&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏗️ Long-term Direction
