@@ -4,8 +4,10 @@
 
 <p align="center">
   <a href="mailto:asif.zaman.suvo@gmail.com"><img src="https://img.shields.io/badge/Gmail-asif.zaman.suvo-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/asif-zaman-suvo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-asifuzzaman-shuvo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Asif-Zaman-Suvo"><img src="https://img.shields.io/badge/GitHub-Asif--Zaman--Suvo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://asifsuvo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-asifsuvo.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Asif_Suvo/"><img src="https://img.shields.io/badge/LeetCode-Asif__Suvo-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20Relocation-1D9E75?style=flat-square"/>
 </p>
 
@@ -117,12 +119,20 @@ Open to **Frontend / full-stack roles**, collaborations, and interesting archite
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/asif-zaman-suvo">
+  <a href="https://www.linkedin.com/in/md-asifuzzaman-shuvo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1d_ewjbQSNxp6fcnHxmVbZyQ7Kiy1wTqg/view">
-    <img src="https://img.shields.io/badge/Download_Resume-1D9E75?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  <a href="https://asifsuvo.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Asif_Suvo/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1Iql7X1IkWHwigtB9UIl7mvl7yQTauxDF/view">
+    <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
 
