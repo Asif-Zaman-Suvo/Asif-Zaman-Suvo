@@ -131,7 +131,7 @@ Open to **Frontend / full-stack roles**, collaborations, and interesting archite
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1Iql7X1IkWHwigtB9UIl7mvl7yQTauxDF/view">
+  <a href="https://lwmtdplilkifggwckizu.supabase.co/storage/v1/object/public/cv-bucket/cv.pdf">
     <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
