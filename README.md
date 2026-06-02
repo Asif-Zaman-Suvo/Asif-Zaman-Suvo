@@ -102,8 +102,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Zaman-Suvo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Zaman-Suvo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=Asif-Zaman-Suvo&theme=tokyonight" alt="Profile Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asif-Zaman-Suvo&theme=tokyonight" alt="Repos per Language"/>
 </p>
 
 ---
@@ -156,7 +159,7 @@ Open to **Senior Frontend/Full-Stack roles**, architecture discussions, and inte
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1Iql7X1IkWHwigtB9UIl7mvl7yQTauxDF/view">
+  <a href="https://lwmtdplilkifggwckizu.supabase.co/storage/v1/object/public/cv-bucket/cv.pdf">
     <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
