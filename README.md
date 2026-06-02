@@ -102,11 +102,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asif-Zaman-Suvo&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asif-Zaman-Suvo&theme=tokyonight" alt="Top Languages"/>
+  <a href="https://github.com/Asif-Zaman-Suvo">
+    <img alt="Asif's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Asif-Zaman-Suvo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7D&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Asif's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=Asif-Zaman-Suvo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7D&text_color=FFFFFF" height="192px" width="49.5%"/>
+  </a>
 </p>
 
 ---
