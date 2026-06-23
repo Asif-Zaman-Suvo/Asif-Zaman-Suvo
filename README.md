@@ -20,7 +20,7 @@
 
 ## 👤 About Me
 
-**Senior Frontend Engineer** architecting high-performance SaaS platforms, enterprise ERPs, and microservices-driven applications with 5+ years of professional experience. Specialized in driving frontend engineering strategies, architecting data-dense analytics dashboards, and optimizing UI performance up to 35% across cross-functional, globally distributed remote environments.
+**Frontend Engineer With Full Stack Experience** Architecting high-performance SaaS platforms, enterprise ERPs, and microservices-driven applications with 5+ years of professional experience. Specialized in driving frontend engineering strategies, architecting data-dense analytics dashboards, and optimizing UI performance up to 35% across cross-functional, globally distributed remote environments.
 
 **Key Strengths:**
 - 🏗️ **Architecture & Design**: Enterprise-scale frontend architecture, component-driven design systems, performance optimization
@@ -115,9 +115,9 @@
 | **Architecture & Design** | **Performance & Optimization** | **Team & Communication** |
 | --- | --- | --- |
 | RBAC & Authorization | Performance Profiling & Optimization | Cross-team Communication |
-| Microservices Architecture | Bundle Size Optimization | Code Review Leadership |
+| Microservices Architecture | Code Review Leadership |
 | Component-Driven Design | SEO & SSR/SSG Implementation | Technical Ownership |
-| Responsive Design Patterns | Database Query Optimization | Agile Collaboration |
+| Responsive Design Patterns | Agile Collaboration |
 | API Integration & REST/GraphQL | Caching Strategies | Requirement Analysis |
 
 ---
@@ -135,7 +135,7 @@
 
 ## 📬 Let's Connect
 
-Open to **Senior Frontend/Full-Stack roles**, architecture discussions, and interesting engineering challenges. Excited about opportunities in **Europe, Middle East, and North America**.
+Open to **Frontend/Full-Stack roles**, architecture discussions, and interesting engineering challenges. Excited about opportunities in **Europe, Middle East, and North America**.
 
 <p align="center">
   <a href="mailto:asif.zaman.suvo@gmail.com">
