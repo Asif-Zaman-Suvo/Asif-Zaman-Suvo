@@ -110,18 +110,6 @@
 
 ---
 
-## 🎯 Core Competencies
-
-| **Architecture & Design** | **Performance & Optimization** | **Team & Communication** |
-| --- | --- | --- |
-| RBAC & Authorization | Performance Profiling & Optimization | Cross-team Communication |
-| Microservices Architecture | Code Review Leadership |
-| Component-Driven Design | SEO & SSR/SSG Implementation | Technical Ownership |
-| Responsive Design Patterns | Agile Collaboration |
-| API Integration & REST/GraphQL | Caching Strategies | Requirement Analysis |
-
----
-
 ## 💡 Specializations
 
 - **Enterprise SaaS Development**: Building scalable, maintainable frontend solutions for global clients
